@@ -1,5 +1,5 @@
 # Statistical-Modelling-and-Forecasting
-This repository contains the full analysis and supporting code for the **MA7007 Statistical Modelling and Forecasting coursework** using **GAMLSS** models on three datasets. The project was completed as part of the Spring 2024–2025 term at London Metropolitan University.
+This repository contains the full analysis and supporting code for the **MA7007 Statistical Modelling and Forecasting coursework** using **GAMLSS** models on three datasets. T
 
 ---
 
@@ -10,7 +10,12 @@ The report presents a comprehensive statistical analysis of three datasets using
 ---
 
 ## 📂 Project Structure
-
+-3rd adatset
+-Codes 
+  - 01_bmi_distribution_fitting.R
+  - 02_grip_strength_centile_curves.R
+  - 03_body_fat_prediction_model.R
+- Report
 ---
 
 ## 🧪 Datasets & Objectives
