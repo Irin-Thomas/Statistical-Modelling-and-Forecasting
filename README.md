@@ -5,7 +5,7 @@ The project presents a comprehensive statistical analysis of three datasets usin
 ---
 
 ## 📂 Project Structure
-- 3rd adatset
+- 3rd datset
 - Code: 
     - 01_bmi_distribution_fitting.R
     - 02_grip_strength_centile_curves.R
@@ -47,6 +47,19 @@ The project presents a comprehensive statistical analysis of three datasets usin
 - **BMI Analysis**: Median BMI ≈ 18.97 with slight positive skew; BCCG captured the data shape well.
 - **Grip Strength**: Growth patterns show increasing spread with age; BCT model handled tail heaviness effectively.
 - **Body Fat Prediction**: Abdomen and weight were key predictors; predictions followed expected physiological trends; model residuals showed good normality.
+
+---
+
+## 🖼️ Sample Visual Outputs
+
+### 📉 BMI Dataset – Distribution Fit (BCCG)
+![BMI Distribution]([plots/bmi_density_fit.png][https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/1st%20Dataset%20Fitted%20BCCG%20Distribution.jpg]
+
+### 📈 Grip Strength – Centile Curves by Age
+![Grip Strength Centiles][plots/grip_strength_centiles.png](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/2nd%20Dataset%20Centile%20Curve%20BCT.jpg]
+
+### 📊 Body Fat – Predicted vs Actual
+![Body Fat Prediction][plots/bodyfat_pred_vs_actual.png)](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/3rd%20Dataset%20Worm%20Plot%20BCT.jpg]
 
 ---
 
