@@ -11,7 +11,7 @@ The report presents a comprehensive statistical analysis of three datasets using
 
 ## 📂 Project Structure
 - 3rd adatset
-- Codes 
+- Code: 
     - 01_bmi_distribution_fitting.R
     - 02_grip_strength_centile_curves.R
     - 03_body_fat_prediction_model.R
@@ -60,16 +60,6 @@ The report presents a comprehensive statistical analysis of three datasets using
 - **R (version ≥ 4.0.0)**
 - `gamlss`, `gamlss.dist`, `gamlss.add`, `ggplot2`, `dplyr`, `car`, `psych`
 
----
-
-## 🧠 Academic Context
-
-- **Module**: MA7007 – Statistical Modelling and Forecasting  
-- **Student**: Irin Mary Thomas  
-- **Student ID**: 23054032  
-- **Email**: irt0076@my.londonmet.ac.uk  
-- **Institution**: London Metropolitan University  
-- **Semester**: Spring 2024–2025
 
 ---
 
@@ -82,8 +72,3 @@ The report presents a comprehensive statistical analysis of three datasets using
 
 ---
 
-
-## ✍️ Acknowledgements
-
-- Dataset sources: UCI, Kaggle, and Dutch Growth Study
-- R packages developed by the **GAMLSS team** and contributors
