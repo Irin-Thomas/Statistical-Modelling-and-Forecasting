@@ -1,11 +1,6 @@
 # Statistical-Modelling-and-Forecasting
-This repository contains the full analysis and supporting code for the **MA7007 Statistical Modelling and Forecasting coursework** using **GAMLSS** models on three datasets. T
 
----
-
-## 📄 Report Summary
-
-The report presents a comprehensive statistical analysis of three datasets using the **Generalised Additive Models for Location, Scale, and Shape (GAMLSS)** framework in R. The models address different distributional assumptions, non-linear trends, and heteroscedasticity in real-world data.
+The project presents a comprehensive statistical analysis of three datasets using the **Generalised Additive Models for Location, Scale, and Shape (GAMLSS)** framework in R. The models address different distributional assumptions, non-linear trends, and heteroscedasticity in real-world data.
 
 ---
 
@@ -67,8 +62,7 @@ The report presents a comprehensive statistical analysis of three datasets using
 
 1. Install R and RStudio
 2. Open the `.R` scripts under `/code/`
-3. Make sure the CSV files in `/data/` are correctly referenced
-4. Run the scripts in sequence for each dataset
+3.Run the scripts in sequence for each dataset
 
 ---
 
