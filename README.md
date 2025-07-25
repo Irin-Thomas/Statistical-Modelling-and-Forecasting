@@ -10,11 +10,11 @@ The report presents a comprehensive statistical analysis of three datasets using
 ---
 
 ## 📂 Project Structure
--3rd adatset
--Codes 
-  - 01_bmi_distribution_fitting.R
-  - 02_grip_strength_centile_curves.R
-  - 03_body_fat_prediction_model.R
+- 3rd adatset
+- Codes 
+    - 01_bmi_distribution_fitting.R
+    - 02_grip_strength_centile_curves.R
+    - 03_body_fat_prediction_model.R
 - Report
 ---
 
