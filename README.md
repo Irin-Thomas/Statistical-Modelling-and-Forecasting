@@ -85,7 +85,7 @@ Body Fat Prediction
 ---
 ## 📚 References
 
-Citations and source materials are listed in the final report PDF [`Case Study Report.pdf`](Report).
+Citations and source materials are listed in the final report PDF [`Case Study Report.pdf`](Report/Case Study Report.pdf).
 
 ---
 
