@@ -50,7 +50,7 @@ The project presents a comprehensive statistical analysis of three datasets usin
 
 ---
 
-## 🖼️ Sample Visual Outputs
+## 🖼️ Visual Outputs
 
 ### 📉 BMI Dataset – Distribution Fit (BCCG)
 BMI Distribution
