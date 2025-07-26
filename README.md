@@ -83,4 +83,14 @@ Body Fat Prediction
 3.Run the scripts in sequence for each dataset
 
 ---
+## 📚 References
+
+Citations and source materials are listed in the final report PDF [`HR_ATTRITION_IRIN.pdf`](docs).
+
+---
+
+## 📬 Contact
+
+**Author**: Irin Mary Thomas  
+**Email**: irinthomas0@gmail.com  
 
