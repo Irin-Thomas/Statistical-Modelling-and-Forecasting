@@ -53,13 +53,18 @@ The project presents a comprehensive statistical analysis of three datasets usin
 ## 🖼️ Sample Visual Outputs
 
 ### 📉 BMI Dataset – Distribution Fit (BCCG)
-![BMI Distribution]([https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/1st%20Dataset%20Fitted%20BCCG%20Distribution.jpg])
+BMI Distribution
+## <img width="446" height="245" alt="image" src="https://github.com/user-attachments/assets/4a8eca3d-6272-47ec-a058-127df74f80fb" />
 
 ### 📈 Grip Strength – Centile Curves by Age
-![Grip Strength Centiles][plots/grip_strength_centiles.png](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/2nd%20Dataset%20Centile%20Curve%20BCT.jpg]
+Grip Strength Centiles
+## ![2nd Dataset Centile Curve BCT](https://github.com/user-attachments/assets/76dcd8f5-b661-428b-9633-071f6cd54267)
+
 
 ### 📊 Body Fat – Predicted vs Actual
-![Body Fat Prediction][plots/bodyfat_pred_vs_actual.png)](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting/blob/main/Plots/3rd%20Dataset%20Worm%20Plot%20BCT.jpg]
+Body Fat Prediction
+## ![3rd Dataset Residual Plot BCT](https://github.com/user-attachments/assets/828946c8-b17c-4369-8535-ac27ba26bd00)
+
 
 ---
 
