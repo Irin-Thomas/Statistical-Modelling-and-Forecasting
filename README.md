@@ -85,7 +85,7 @@ Body Fat Prediction
 ---
 ## 📚 References
 
-Citations and source materials are listed in the final report PDF [`HR_ATTRITION_IRIN.pdf`](docs).
+Citations and source materials are listed in the final report PDF [`Case Study Report.pdf`](Report).
 
 ---
 
